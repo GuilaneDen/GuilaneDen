@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things everyday
 - 🌱 I’m currently learning Web3, BLockchain, DevOps
 - 💞️ I’m looking to collaborate on blockchain project
-- 📫 How to reach me guilane@blooo.io
+- 📫 How to reach me [:email:](mailto:83951892+GuilaneDen@users.noreply.github.com)
 
 <!---
 GuilaneDen/GuilaneDen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
